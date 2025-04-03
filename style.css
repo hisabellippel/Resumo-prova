@@ -9,3 +9,37 @@ body{ margin: 0px;
     background-color: rgb(247, 130, 212);
     color: rgb(255, 255, 255);
     text-align: center;}
+
+    #html{
+        border-style: solid;
+        border: 5px;
+        color: aliceblue;
+        margin: 5px;
+        padding: 50px;
+        background-color: rgb(197, 27, 27);
+        color: rgb(0, 0, 0);
+        display: flex;
+        border-color: rgb(0, 0, 0);
+    }
+    
+    
+     .h{
+        color: aliceblue;
+        margin: 5px;
+        padding: 100px;
+        background-color: rgb(255, 0, 0);
+        border: 5px;
+        border-style: solid;
+        border-color: rgb(0, 0, 0);
+        }
+      
+
+
+    #icone{
+    width: 400px;
+     }
+            
+     img{
+         width: 350px;
+         height: 250px;
+     }
