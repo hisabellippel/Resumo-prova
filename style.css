@@ -1,19 +1,19 @@
 body{ margin: 0px;
     padding: 0px;    
     background-color: rgb(247, 130, 212);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
     
     #navbar{ margin: 0px;
     padding: 5px;
     background-color: rgb(247, 130, 212);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;}
 
     #html{
         border-style: solid;
         border: 5px;
-        color: aliceblue;
+        color: rgb(0, 0, 0);
         margin: 5px;
         padding: 50px;
         background-color: rgb(204, 63, 162);
@@ -24,7 +24,7 @@ body{ margin: 0px;
     
     
      .h{
-        color: aliceblue;
+        color: rgb(0, 0, 0);
         margin: 5px;
         padding: 100px;
         background-color: rgb(204, 63, 162);
