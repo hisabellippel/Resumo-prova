@@ -1,151 +1,165 @@
-body{ margin: 0px;
+body{ 
+    border: 20px;
+    margin: 0px;
     padding: 0px;    
-    background-color: rgb(247, 130, 212);
+    background-color: rgb(187, 188, 248);
     color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
     
-    #navbar{ margin: 0px;
+#navbar{ 
+    margin: 0px;
     padding: 5px;
-    background-color: rgb(247, 130, 212);
+    background-color: rgb(187, 188, 248);
     color: rgb(0, 0, 0);
     text-align: center;}
 
-    #html{
-        border: 20px;
-        margin: 10px;
-        padding: 5px;
-        background-color: rgb(204, 63, 162);
-        display: flex;
-        
+#html{
+    border: 20px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(72, 74, 158);
+    display: flex;
     }
     
     
-     .h{
-        text-align: center;
-        color: rgb(0, 0, 0);
-        margin: 10px;
-        padding: 50px;
-        background-color: rgb(204, 63, 162);
-        border: 5px;
-        border-style: solid;
-        border-color: rgb(0, 0, 0);
-        }
+.h{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    }
 
-        .ht{
-            text-align: center;
-            color: rgb(0, 0, 0);
-            margin: 10px;
-            padding: 50px;
-            background-color: rgb(204, 63, 162);
-            border: 5px;
-            border-style: solid;
-            border-color: rgb(0, 0, 0);
-            }
+.ht{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    }
 
-        #css{
-        border: 20px;
-        margin: 10px;
-        padding: 5px;
-        background-color: rgb(204, 63, 162);
-        display: flex;
-        }
+#css{
+    border: 20px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(72, 74, 158);
+    display: flex;
+    }
         
         
-         .c{
-            text-align: center;
-             color: rgb(0, 0, 0);
-            margin: 10px;
-            padding: 50px;
-            background-color: rgb(204, 63, 162);
-            border: 5px;
-             border-style: solid;
-             border-color: rgb(0, 0, 0);
-            }
-            .cs{
-                text-align: center;
-                 color: rgb(0, 0, 0);
-                margin: 10px;
-                padding: 50px;
-                background-color: rgb(204, 63, 162);
-                border: 5px;
-                 border-style: solid;
-                 border-color: rgb(0, 0, 0);
-                }
+.c{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    }
+.cs{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    }
       
-            #Git{
-                border: 20px;
-                margin: 10px;
-                padding: 5px;
-                background-color: rgb(204, 63, 162);
-                display: flex;
-            }
+#Git{
+    border: 20px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(72, 74, 158);
+    display: flex;
+    }
             
             
-             .g{
-                text-align: center;
-                color: rgb(0, 0, 0);
-                margin: 10px;
-                padding: 50px;
-                background-color: rgb(204, 63, 162);
-                border: 5px;
-                border-style: solid;
-                border-color: rgb(0, 0, 0);
-                }
-                .gi{
-                    text-align: center;
-                    color: rgb(0, 0, 0);
-                    margin: 10px;
-                    padding: 50px;
-                    background-color: rgb(204, 63, 162);
-                    border: 5px;
-                    border-style: solid;
-                    border-color: rgb(0, 0, 0);
-                    }
-                    .git{
-                        text-align: center;
-                        color: rgb(0, 0, 0);
-                        margin: 10px;
-                        padding: 50px;
-                        background-color: rgb(204, 63, 162);
-                        border: 5px;
-                        border-style: solid;
-                        border-color: rgb(0, 0, 0);
-                        }
+.g{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    }
+.gi{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    }
+.git{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    }
 
-                #Java{
-                    border: 20px;
-                    margin: 10px;
-                    padding: 5px;
-                    background-color: rgb(204, 63, 162);
-                    display: flex;
-                }
+#Java{
+    border: 20px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(72, 74, 158);
+    display: flex;
+    }
                 
                 
-                 .j{
-                    text-align: center;
-                    color: rgb(0, 0, 0);
-                   margin: 10px;
-                   padding: 50px;
-                   background-color: rgb(204, 63, 162);
-                   border: 5px;
-                    border-style: solid;
-                    border-color: rgb(0, 0, 0);
-                    }
-                    .ji{
-                        text-align: center;
-                        color: rgb(0, 0, 0);
-                       margin: 10px;
-                       padding: 50px;
-                       background-color: rgb(204, 63, 162);
-                       border: 5px;
-                        border-style: solid;
-                        border-color: rgb(0, 0, 0);
-                        }
+.j{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    }                
+.ji{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(187, 188, 248);
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    }
     #icone{
     width: 400px;
      }
             
      img{
-         width: 350px;
-         height: 250px;
+         width: 400px;
+         height: 300px;
      }
