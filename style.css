@@ -31,6 +31,17 @@ body{ margin: 0px;
         border-color: rgb(0, 0, 0);
         }
 
+        .ht{
+            text-align: center;
+            color: rgb(0, 0, 0);
+            margin: 10px;
+            padding: 50px;
+            background-color: rgb(204, 63, 162);
+            border: 5px;
+            border-style: solid;
+            border-color: rgb(0, 0, 0);
+            }
+
         #css{
         border: 20px;
         margin: 10px;
@@ -50,6 +61,16 @@ body{ margin: 0px;
              border-style: solid;
              border-color: rgb(0, 0, 0);
             }
+            .cs{
+                text-align: center;
+                 color: rgb(0, 0, 0);
+                margin: 10px;
+                padding: 50px;
+                background-color: rgb(204, 63, 162);
+                border: 5px;
+                 border-style: solid;
+                 border-color: rgb(0, 0, 0);
+                }
       
             #Git{
                 border: 20px;
@@ -70,6 +91,26 @@ body{ margin: 0px;
                 border-style: solid;
                 border-color: rgb(0, 0, 0);
                 }
+                .gi{
+                    text-align: center;
+                    color: rgb(0, 0, 0);
+                    margin: 10px;
+                    padding: 50px;
+                    background-color: rgb(204, 63, 162);
+                    border: 5px;
+                    border-style: solid;
+                    border-color: rgb(0, 0, 0);
+                    }
+                    .git{
+                        text-align: center;
+                        color: rgb(0, 0, 0);
+                        margin: 10px;
+                        padding: 50px;
+                        background-color: rgb(204, 63, 162);
+                        border: 5px;
+                        border-style: solid;
+                        border-color: rgb(0, 0, 0);
+                        }
 
                 #Java{
                     border: 20px;
@@ -90,6 +131,16 @@ body{ margin: 0px;
                     border-style: solid;
                     border-color: rgb(0, 0, 0);
                     }
+                    .ji{
+                        text-align: center;
+                        color: rgb(0, 0, 0);
+                       margin: 10px;
+                       padding: 50px;
+                       background-color: rgb(204, 63, 162);
+                       border: 5px;
+                        border-style: solid;
+                        border-color: rgb(0, 0, 0);
+                        }
     #icone{
     width: 400px;
      }
