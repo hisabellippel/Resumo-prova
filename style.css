@@ -56,8 +56,51 @@ body{ margin: 0px;
             border-color: rgb(0, 0, 0);
             }
       
+            #Git{
+                border-style: solid;
+                border: 5px;
+                color: rgb(0, 0, 0);
+                margin: 5px;
+                padding: 50px;
+                background-color: rgb(204, 63, 162);
+                color: rgb(0, 0, 0);
+                display: flex;
+                border-color: rgb(0, 0, 0);
+            }
+            
+            
+             .g{
+                color: rgb(0, 0, 0);
+                margin: 5px;
+                padding: 100px;
+                background-color: rgb(204, 63, 162);
+                border: 5px;
+                border-style: solid;
+                border-color: rgb(0, 0, 0);
+                }
 
-
+                #Java{
+                    border-style: solid;
+                    border: 5px;
+                    color: rgb(0, 0, 0);
+                    margin: 5px;
+                    padding: 50px;
+                    background-color: rgb(204, 63, 162);
+                    color: rgb(0, 0, 0);
+                    display: flex;
+                    border-color: rgb(0, 0, 0);
+                }
+                
+                
+                 .j{
+                    color: rgb(0, 0, 0);
+                    margin: 5px;
+                    padding: 100px;
+                    background-color: rgb(204, 63, 162);
+                    border: 5px;
+                    border-style: solid;
+                    border-color: rgb(0, 0, 0);
+                    }
     #icone{
     width: 400px;
      }
