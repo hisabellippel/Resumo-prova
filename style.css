@@ -11,22 +11,20 @@ body{ margin: 0px;
     text-align: center;}
 
     #html{
-        border-style: solid;
-        border: 5px;
-        color: rgb(0, 0, 0);
-        margin: 5px;
-        padding: 50px;
+        border: 20px;
+        margin: 10px;
+        padding: 5px;
         background-color: rgb(204, 63, 162);
-        color: rgb(0, 0, 0);
         display: flex;
-        border-color: rgb(0, 0, 0);
+        
     }
     
     
      .h{
+        text-align: center;
         color: rgb(0, 0, 0);
-        margin: 5px;
-        padding: 100px;
+        margin: 10px;
+        padding: 50px;
         background-color: rgb(204, 63, 162);
         border: 5px;
         border-style: solid;
@@ -34,45 +32,39 @@ body{ margin: 0px;
         }
 
         #css{
-            border-style: solid;
-            border: 5px;
-            color: rgb(0, 0, 0);
-            margin: 5px;
-            padding: 50px;
-            background-color: rgb(204, 63, 162);
-            color: rgb(0, 0, 0);
-            display: flex;
-            border-color: rgb(0, 0, 0);
+        border: 20px;
+        margin: 10px;
+        padding: 5px;
+        background-color: rgb(204, 63, 162);
+        display: flex;
         }
         
         
          .c{
-            color: rgb(0, 0, 0);
-            margin: 5px;
-            padding: 100px;
+            text-align: center;
+             color: rgb(0, 0, 0);
+            margin: 10px;
+            padding: 50px;
             background-color: rgb(204, 63, 162);
             border: 5px;
-            border-style: solid;
-            border-color: rgb(0, 0, 0);
+             border-style: solid;
+             border-color: rgb(0, 0, 0);
             }
       
             #Git{
-                border-style: solid;
-                border: 5px;
-                color: rgb(0, 0, 0);
-                margin: 5px;
-                padding: 50px;
+                border: 20px;
+                margin: 10px;
+                padding: 5px;
                 background-color: rgb(204, 63, 162);
-                color: rgb(0, 0, 0);
                 display: flex;
-                border-color: rgb(0, 0, 0);
             }
             
             
              .g{
+                text-align: center;
                 color: rgb(0, 0, 0);
-                margin: 5px;
-                padding: 100px;
+                margin: 10px;
+                padding: 50px;
                 background-color: rgb(204, 63, 162);
                 border: 5px;
                 border-style: solid;
@@ -80,24 +72,21 @@ body{ margin: 0px;
                 }
 
                 #Java{
-                    border-style: solid;
-                    border: 5px;
-                    color: rgb(0, 0, 0);
-                    margin: 5px;
-                    padding: 50px;
+                    border: 20px;
+                    margin: 10px;
+                    padding: 5px;
                     background-color: rgb(204, 63, 162);
-                    color: rgb(0, 0, 0);
                     display: flex;
-                    border-color: rgb(0, 0, 0);
                 }
                 
                 
                  .j{
+                    text-align: center;
                     color: rgb(0, 0, 0);
-                    margin: 5px;
-                    padding: 100px;
-                    background-color: rgb(204, 63, 162);
-                    border: 5px;
+                   margin: 10px;
+                   padding: 50px;
+                   background-color: rgb(204, 63, 162);
+                   border: 5px;
                     border-style: solid;
                     border-color: rgb(0, 0, 0);
                     }
